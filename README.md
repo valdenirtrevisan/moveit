@@ -40,6 +40,7 @@ $ yarn dev
   - [ ] Faça um gif do projeto
   - [x] Tecnologias utilizadas
 - [x] O que é necessário fazer para rodar na máquina  local
+- [x] Login com GitHub
 - [ ] Transformar em uma página responsiva
 - [ ] Adicionar uma funcionalidade de PWA
 - [ ] Criar tema dark/light
